@@ -1,5 +1,5 @@
 # 💫 About Me:
-System Architect by day<br>C/C++ Coder by night<br><br>And some python, because CDK, Lambdas and stuff ;3
+System / Security Architect & C/C++/Python Advocate
 
 
 ## 🌐 Socials:
